@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Google Data Analytics
 - 📫 How to reach me [Linked In](https://www.linkedin.com/in/muhammad-reza-ubaidillah-b7564621b/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Gym
+
 
 <!---
 rezaubaidillah/rezaubaidillah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
